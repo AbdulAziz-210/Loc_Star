@@ -1,0 +1,100 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+.locstar-content{
+    width: 472px;
+    display: inline-block;
+    width: 347px;
+    margin: 0 auto;
+    background-image: url("../image/Ellipse\ 1.svg");
+    
+}
+.contact-us{
+  
+    margin: 50px;
+    padding: 10px;
+    border: 2px solid black;
+   
+    text-align: center;
+    flex-direction: column;
+    color: #F6F6F6;
+}
+.loc-title{
+    display: inline-block;
+    color: #CC2121;
+    text-shadow: 0px 2px 14px rgba(239, 239, 239, 0.25);
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: -2.24px;
+}
+.star-title{
+    display: inline-block;
+    color: #8589E4;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: -2.24px;
+}
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 21.39px;
+    padding: 10px 8.58px 16px;
+    height: 37.581px;
+    flex-shrink: 0;
+}
+.button{
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 200px;
+    height: 37.581px;
+    flex-shrink: 0;
+    background-color: #8589E4
+} 
+.text{
+    width: 307px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* width: 472px;
+    margin: 100px;
+    opacity: 0.22;
+    background: rgba(74, 80, 201, 0.58);
+
+
+
+
+
+
+
+
+
+
